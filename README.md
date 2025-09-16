@@ -26,12 +26,6 @@ KEY THEMES
 - Anchoring of long-term inflation expectations
 - Policy implications for central banks (e.g., FED)
 
-CONTENTS
---------
-- 📄 `Difonzo_Giuseppe.pdf`: Full thesis (in Italian)
-- 📊 Figures and regression outputs from University of Michigan Surveys
-- 📚 Comprehensive bibliography (including Bernanke, Lucas, Ashton, Coibion, D'Acunto, and others)
-
 METHODOLOGY
 -----------
 - **Time series analysis** of inflation (2016–2023)
