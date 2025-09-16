@@ -1,0 +1,26 @@
+# requirements.txt (for R)
+# Run the following in R to install all required packages:
+
+packages <- c(
+  "quantmod",
+  "forecast",
+  "magrittr",
+  "dplyr",
+  "tidyr",
+  "lubridate",
+  "kableExtra",
+  "date",
+  "chron",
+  "TTR",
+  "stats",
+  "xts",
+  "ggplot2",
+  "lmtest",
+  "tseries",
+  "urca",
+  "rlang",
+  "forcats",
+  "purrr",
+  "tidyverse"
+)
+install.packages(packages)
