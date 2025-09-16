@@ -3,10 +3,15 @@ This study, entitled ‘US Inflation: Analysis of Expectations and Perceptions o
 ----------
 
 Title: INFLAZIONE USA: UN’ANALISI DELLE ASPETTATIVE E DELLE PERCEZIONI
+
 Author: Giuseppe Difonzo
+
 Institution: Università degli Studi di Padova
+
 Department: Scienze Economiche ed Aziendali
+
 Academic Year: 2023–2024
+
 Language: Italian (with references to English literature)
 
 DESCRIPTION
